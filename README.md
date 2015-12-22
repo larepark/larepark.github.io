@@ -1,2 +1,2 @@
-# larepark.github.io
-This is a readme.
+# lawrence.github.io
+Simple personal homepage.
