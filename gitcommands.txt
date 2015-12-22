@@ -1,13 +1,10 @@
 use 
 
 git add -A
-
 for now to add any files changed
 
 then use
-
 git commit -m "type good message here"
 
 then use
-
 git push
